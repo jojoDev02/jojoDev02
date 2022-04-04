@@ -2,7 +2,7 @@
 
 - 👩‍🎓 2/8 Sistemas de Informação - UNIRIO
 - 🌱 Estudando POO e Java
-- 😄 Pronomes: ela/dela
+
 
 <div align="center">
   <a href="https://github.com/jojoDev02">
