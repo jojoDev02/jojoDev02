@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Maria Jordana :)
 
-- 👩‍🎓 3/8 Sistemas de Informação - UNIRIO
-- 🌱 Estudando POO e Java
+- 👩‍🎓 4/8 Sistemas de Informação - UNIRIO
+- 🌱 Estudando Estrutura de Dados
 
 
 <div align="center">
