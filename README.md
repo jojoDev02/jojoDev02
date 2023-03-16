@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Maria Jordana, aspirante a desenvolvedora back-end :)
 
-- 👩‍🎓 4/8 Sistemas de Informação - UNIRIO
-- 🌱 Estudando Estrutura de Dados
+- 5/8 Sistemas de Informação - UNIRIO
+- Estudando Django 
 
 
 <div align="center">
