@@ -1,4 +1,4 @@
-### Olá! Eu sou a Maria Jordana, aspirante a desenvolvedora back-end :)
+### Olá! Eu sou a Jordana, aspirante a desenvolvedora back-end :)
 
 - 5/8 Sistemas de Informação - UNIRIO
 - Estudando Python
